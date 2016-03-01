@@ -1,5 +1,4 @@
-# Project Name
-Meet Me
+# Meet Me
 
 Choose an activity, choose your friends, and receive suggested locations that 
 are convenient for everyone. Meet Me then sends invites to everyone on the list, 
